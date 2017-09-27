@@ -3,7 +3,7 @@ Code which uses the mid-infrared WISE information to estimate the redshift of ra
 
 Created by Marcin Glowacki, University of Sydney.
 Requirements: numpy, scipy, pylab, pandas
-If used, please cite the paper! "WISE data as a photometric redshift indicator for radio AGN", found at https://arxiv.org/abs/1709.08634 (submitted).
+If used, please cite the paper! "WISE data as a photometric redshift indicator for radio AGN", found at https://arxiv.org/abs/1709.08634 (submitted to MNRAS).
 
 Simply copy files to your local directory and run as a python script. Example test data files/variables are provided, as are the outputs.
 
